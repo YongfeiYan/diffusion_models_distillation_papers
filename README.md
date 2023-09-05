@@ -3,6 +3,9 @@ Papers and projects of distillation for diffusion models
 
 ## Overview Materials
 - [Awesome Knowledge Distillation Papers](https://github.com/dkozlov/awesome-knowledge-distillation)
+- **A Comprehensive Survey on Knowledge Distillation of Diffusion Models**. 2023
+
+    *Weijian Luo*. [[pdf](https://arxiv.org/pdf/2304.04262.pdf)]
 
 
 ## Selected Papers
